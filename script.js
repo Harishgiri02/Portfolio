@@ -9,7 +9,7 @@ const noSound = document.getElementById('noSound');
 
 yesBtn.addEventListener('click', () => {
     responseText.textContent = 'Yay! I\'m so happy! 💖 💞';
-    gif.src = '/public/2.jpeg';
+    gif.src = '2.jpeg';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
     title.style.color = 'transparent';
