@@ -8,8 +8,8 @@ const yesSound = document.getElementById('yesSound');
 const noSound = document.getElementById('noSound');
 
 yesBtn.addEventListener('click', () => {
-    responseText.textContent = 'Yay! I\'m so happy! 💖 💞';
-    gif.src = '2.jpeg';
+    responseText.textContent = 'Thanks to you, I smile a little more, laugh a little harder. I am beyond grateful that I have you in my life.I love you❤ 💖 💞';
+    gif.src = '3.jpeg';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
     title.style.color = 'transparent';
